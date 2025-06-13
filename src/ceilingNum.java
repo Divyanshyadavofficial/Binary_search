@@ -22,3 +22,6 @@ public class ceilingNum {
         return start;
     }
 }
+// start<=end
+// when while loop breaks start = end+1
+//next big number is going to be equal to start element.
